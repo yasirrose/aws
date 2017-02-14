@@ -1,8 +1,7 @@
 version: 0.0
 os: windows
 files:
-  - source: \
-  - source: source
+  - source: \test.cfm
     destination: C:\inetpub\wwwroot
 hooks:
   BeforeInstall:
